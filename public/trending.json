@@ -1,0 +1,412 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+            "genre_ids": [
+                18,
+                10765,
+                9648
+            ],
+            "id": 66732,
+            "media_type": "tv",
+            "name": "Stranger Things",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Stranger Things",
+            "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+            "popularity": 7667.218,
+            "poster_path": "/49WJfeN0moxb9IPfGn8AIqMGskD.jpg",
+            "first_air_date": "2016-07-15",
+            "vote_average": 8.622,
+            "vote_count": 11619
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5PnypKiSj2efSPqThNjTXz8jwOg.jpg",
+            "genre_ids": [
+                14,
+                28
+            ],
+            "id": 759175,
+            "media_type": "movie",
+            "title": "The Princess",
+            "original_language": "en",
+            "original_title": "The Princess",
+            "overview": "A beautiful, strong-willed young royal refuses to wed the cruel sociopath to whom she is betrothed and is kidnapped and locked in a remote tower of her father’s castle. With her scorned, vindictive suitor intent on taking her father’s throne, the princess must protect her family and save the kingdom.",
+            "popularity": 52.52,
+            "poster_path": "/9pCoqX24a6rE981fY1O3PmhiwrB.jpg",
+            "release_date": "2022-06-16",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 36
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yQTQL9pliY6vpRt8HkjUJrKymBb.jpg",
+            "genre_ids": [
+                10759,
+                18
+            ],
+            "id": 120911,
+            "media_type": "tv",
+            "name": "The Terminal List",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "The Terminal List",
+            "overview": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military’s command structure, Reece applies the lessons he’s learned from nearly two decades of warfare to hunt down the people responsible.",
+            "popularity": 435.694,
+            "poster_path": "/71f3JHlJCP6V7LhHHiKZgjtFxZw.jpg",
+            "first_air_date": "2022-06-30",
+            "vote_average": 8.957,
+            "vote_count": 58
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wcKFYIiVDvRURrzglV9kGu7fpfY.jpg",
+            "genre_ids": [
+                14,
+                28,
+                12
+            ],
+            "id": 453395,
+            "media_type": "movie",
+            "title": "Doctor Strange in the Multiverse of Madness",
+            "original_language": "en",
+            "original_title": "Doctor Strange in the Multiverse of Madness",
+            "overview": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
+            "popularity": 11059.21,
+            "poster_path": "/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+            "release_date": "2022-05-04",
+            "video": false,
+            "vote_average": 7.541,
+            "vote_count": 3925
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ggEKIzP5An3vnSfj271ApaJYtQw.jpg",
+            "genre_ids": [
+                10751,
+                16,
+                12,
+                35
+            ],
+            "id": 438148,
+            "media_type": "movie",
+            "title": "Minions: The Rise of Gru",
+            "original_language": "en",
+            "original_title": "Minions: The Rise of Gru",
+            "overview": "A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.",
+            "popularity": 3865.589,
+            "poster_path": "/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg",
+            "release_date": "2022-06-29",
+            "video": false,
+            "vote_average": 8.114,
+            "vote_count": 70
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/n6vVs6z8obNbExdD3QHTr4Utu1Z.jpg",
+            "genre_ids": [
+                10765,
+                10759
+            ],
+            "id": 76479,
+            "media_type": "tv",
+            "name": "The Boys",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "The Boys",
+            "overview": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+            "popularity": 3994.771,
+            "poster_path": "/stTEycfG9928HYGEISBFaG1ngjM.jpg",
+            "first_air_date": "2019-07-25",
+            "vote_average": 8.447,
+            "vote_count": 6415
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x3hHIz5PWDAyho7Sf3p0FspJCva.jpg",
+            "genre_ids": [
+                53,
+                28
+            ],
+            "id": 916719,
+            "media_type": "movie",
+            "title": "Code Name Banshee",
+            "original_language": "en",
+            "original_title": "Code Name Banshee",
+            "overview": "Caleb, a former government assassin in hiding, who resurfaces when his protégé, the equally deadly killer known as Banshee, discovers a bounty has been placed on Caleb's head.",
+            "popularity": 86.477,
+            "poster_path": "/dt53jhcegkYu2hKcE4tAdnbpBzt.jpg",
+            "release_date": "2022-07-01",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/p1F51Lvj3sMopG948F5HsBbl43C.jpg",
+            "genre_ids": [
+                28,
+                12,
+                35
+            ],
+            "id": 616037,
+            "media_type": "movie",
+            "title": "Thor: Love and Thunder",
+            "original_language": "en",
+            "original_title": "Thor: Love and Thunder",
+            "overview": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now inexplicably wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
+            "popularity": 1398.687,
+            "poster_path": "/4zLfBbGnuUBLbMVtagTZvzFwS8l.jpg",
+            "release_date": "2022-07-06",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 17
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4BlS2ojR7ueEYsBUNi6reY4livW.jpg",
+            "genre_ids": [
+                16,
+                10759,
+                35,
+                10762
+            ],
+            "id": 114466,
+            "media_type": "tv",
+            "name": "Baymax!",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Baymax!",
+            "overview": "Return to the fantastical city of San Fransokyo where the affable, inflatable, inimitable healthcare companion robot, Baymax, sets out to do what he was programmed to do: help others.",
+            "popularity": 235.992,
+            "poster_path": "/muzgYvvFniQnwiTdAvfMCEkHsT4.jpg",
+            "first_air_date": "2022-06-29",
+            "vote_average": 8.081,
+            "vote_count": 37
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/p5vSYjaWGPE0lrrLXGIc3RXv0VA.jpg",
+            "genre_ids": [
+                53,
+                28
+            ],
+            "id": 888195,
+            "media_type": "movie",
+            "title": "Hot Seat",
+            "original_language": "en",
+            "original_title": "Hot Seat",
+            "overview": "An ex-hacker is forced to break into high-level banking institutions, another man must try to penetrate the booby-trapped building to get the young man off the hot seat.",
+            "popularity": 89.425,
+            "poster_path": "/6zoA2yEfKs8hNFlk4AV28VpoT3I.jpg",
+            "release_date": "2022-07-01",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pFP878NvW4MD6MQbRv0tqpdoBXY.jpg",
+            "genre_ids": [
+                878,
+                53
+            ],
+            "id": 793961,
+            "media_type": "movie",
+            "title": "Rubikon",
+            "original_language": "en",
+            "original_title": "Rubikon",
+            "overview": "The company soldier Hannah and the scientists Gavin and Dimitri are researching an algae project on board the Rubikon space station, which is supposed to permanently supply humanity with oxygen and food. But suddenly the earth disappears below them in a brown, toxic fog and all contact is broken off - are they the last survivors of humanity? Should they initiate the safe station, dare the return flight and thereby risk their lives?",
+            "popularity": 75.768,
+            "poster_path": "/hAaDGdgRvocBXT4g4UUM2kneNnE.jpg",
+            "release_date": "2022-07-01",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 10
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/odJ4hx6g6vBt4lBWKFD1tI8WS4x.jpg",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "id": 361743,
+            "media_type": "movie",
+            "title": "Top Gun: Maverick",
+            "original_language": "en",
+            "original_title": "Top Gun: Maverick",
+            "overview": "After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+            "popularity": 1348.914,
+            "poster_path": "/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+            "release_date": "2022-05-24",
+            "video": false,
+            "vote_average": 8.382,
+            "vote_count": 1412
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8Z8dVGTn3OhX1AR49tgvh89i79G.jpg",
+            "genre_ids": [
+                37,
+                28,
+                53
+            ],
+            "id": 884315,
+            "media_type": "movie",
+            "title": "Terror on the Prairie",
+            "original_language": "en",
+            "original_title": "Terror on the Prairie",
+            "overview": "A pioneering family fights back against a gang of vicious outlaws that is terrorizing them on their newly-built farm on the plains of Montana.",
+            "popularity": 52.121,
+            "poster_path": "/rPWaktPt50BwkYHmYM62sDrdnjR.jpg",
+            "release_date": "2022-06-14",
+            "video": false,
+            "vote_average": 7.267,
+            "vote_count": 15
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vHTuFN4uN1jD1xQWHnOft5dLvL5.jpg",
+            "genre_ids": [
+                10765,
+                37
+            ],
+            "id": 63247,
+            "media_type": "tv",
+            "name": "Westworld",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Westworld",
+            "overview": "A dark odyssey about the dawn of artificial consciousness and the evolution of sin. Set at the intersection of the near future and the reimagined past, it explores a world in which every human appetite, no matter how noble or depraved, can be indulged.",
+            "popularity": 214.985,
+            "poster_path": "/8MfgyFHf7XEboZJPZXCIDqqiz6e.jpg",
+            "first_air_date": "2016-10-02",
+            "vote_average": 8.121,
+            "vote_count": 4178
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zGLHX92Gk96O1DJvLil7ObJTbaL.jpg",
+            "genre_ids": [
+                14,
+                12,
+                28
+            ],
+            "id": 338953,
+            "media_type": "movie",
+            "title": "Fantastic Beasts: The Secrets of Dumbledore",
+            "original_language": "en",
+            "original_title": "Fantastic Beasts: The Secrets of Dumbledore",
+            "overview": "Professor Albus Dumbledore knows the powerful, dark wizard Gellert Grindelwald is moving to seize control of the wizarding world. Unable to stop him alone, he entrusts magizoologist Newt Scamander to lead an intrepid team of wizards and witches. They soon encounter an array of old and new beasts as they clash with Grindelwald's growing legion of followers.",
+            "popularity": 3487.831,
+            "poster_path": "/jrgifaYeUtTnaH7NF5Drkgjg2MB.jpg",
+            "release_date": "2022-04-06",
+            "video": false,
+            "vote_average": 6.829,
+            "vote_count": 2126
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iOFBH9KtjKMntbP2kheeOpMQTcC.jpg",
+            "genre_ids": [
+                28,
+                35,
+                53
+            ],
+            "id": 667739,
+            "media_type": "movie",
+            "title": "The Man From Toronto",
+            "original_language": "en",
+            "original_title": "The Man From Toronto",
+            "overview": "In a case of mistaken identity, the world’s deadliest assassin, known as the Man from Toronto, and a New York City screw-up are forced to team up after being confused for each other at an Airbnb.",
+            "popularity": 1583.784,
+            "poster_path": "/uTCfTibqtk4f90cC59bLPMOmsfc.jpg",
+            "release_date": "2022-06-24",
+            "video": false,
+            "vote_average": 6.124,
+            "vote_count": 210
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/etoVmQauLgUnu34qlqUPlOkevZO.jpg",
+            "genre_ids": [
+                10765,
+                10759,
+                18
+            ],
+            "id": 92830,
+            "media_type": "tv",
+            "name": "Obi-Wan Kenobi",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Obi-Wan Kenobi",
+            "overview": "During the reign of the Galactic Empire, former Jedi Master, Obi-Wan Kenobi, embarks on a crucial mission to confront allies turned enemies and face the wrath of the Empire.",
+            "popularity": 1213.538,
+            "poster_path": "/qJRB789ceLryrLvOKrZqLKr2CGf.jpg",
+            "first_air_date": "2022-05-26",
+            "vote_average": 7.726,
+            "vote_count": 513
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ocUp7DJBIc8VJgLEw1prcyK1dYv.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 634649,
+            "media_type": "movie",
+            "title": "Spider-Man: No Way Home",
+            "original_language": "en",
+            "original_title": "Spider-Man: No Way Home",
+            "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+            "popularity": 2362.857,
+            "poster_path": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+            "release_date": "2021-12-15",
+            "video": false,
+            "vote_average": 8.063,
+            "vote_count": 13912
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xHrp2pq73oi9D64xigPjWW1wcz1.jpg",
+            "genre_ids": [
+                80,
+                9648,
+                53
+            ],
+            "id": 414906,
+            "media_type": "movie",
+            "title": "The Batman",
+            "original_language": "en",
+            "original_title": "The Batman",
+            "overview": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+            "popularity": 1468.904,
+            "poster_path": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+            "release_date": "2022-03-01",
+            "video": false,
+            "vote_average": 7.76,
+            "vote_count": 5415
+        }
+    ],
+    "total_pages": 1000,
+    "total_results": 20000
+}

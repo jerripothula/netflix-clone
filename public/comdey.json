@@ -1,0 +1,413 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/ggEKIzP5An3vnSfj271ApaJYtQw.jpg",
+            "genre_ids": [
+                10751,
+                16,
+                12,
+                35
+            ],
+            "id": 438148,
+            "original_language": "en",
+            "original_title": "Minions: The Rise of Gru",
+            "overview": "A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.",
+            "popularity": 3865.589,
+            "poster_path": "/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg",
+            "release_date": "2022-06-29",
+            "title": "Minions: The Rise of Gru",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 67
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/egoyMDLqCxzjnSrWOz50uLlJWmD.jpg",
+            "genre_ids": [
+                28,
+                12,
+                10751,
+                35
+            ],
+            "id": 675353,
+            "original_language": "en",
+            "original_title": "Sonic the Hedgehog 2",
+            "overview": "After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.",
+            "popularity": 3155.346,
+            "poster_path": "/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg",
+            "release_date": "2022-03-30",
+            "title": "Sonic the Hedgehog 2",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 2355
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/t0mwKhUDa62hdhdKSsN4xMfhY5Z.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 626735,
+            "original_language": "en",
+            "original_title": "Dog",
+            "overview": "An army ranger and his dog embark on a road trip along the Pacific Coast Highway to attend a friend's funeral.",
+            "popularity": 2900.176,
+            "poster_path": "/rkpLvPDe0ZE62buUS32exdNr7zD.jpg",
+            "release_date": "2022-02-17",
+            "title": "Dog",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 534
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1Ds7xy7ILo8u2WWxdnkJth1jQVT.jpg",
+            "genre_ids": [
+                28,
+                12,
+                35
+            ],
+            "id": 752623,
+            "original_language": "en",
+            "original_title": "The Lost City",
+            "overview": "A reclusive romance novelist was sure nothing could be worse than getting stuck on a book tour with her cover model until a kidnapping attempt sweeps them both into a cutthroat jungle adventure, proving life can be so much stranger, and more romantic, than any of her paperback fictions.",
+            "popularity": 2575.458,
+            "poster_path": "/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
+            "release_date": "2022-03-24",
+            "title": "The Lost City",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 1406
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fOy2Jurz9k6RnJnMUMRDAgBwru2.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                35,
+                14
+            ],
+            "id": 508947,
+            "original_language": "en",
+            "original_title": "Turning Red",
+            "overview": "Thirteen-year-old Mei is experiencing the awkwardness of being a teenager with a twist – when she gets too excited, she transforms into a giant red panda.",
+            "popularity": 1739.614,
+            "poster_path": "/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg",
+            "release_date": "2022-03-10",
+            "title": "Turning Red",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 2624
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/p1F51Lvj3sMopG948F5HsBbl43C.jpg",
+            "genre_ids": [
+                28,
+                12,
+                35
+            ],
+            "id": 616037,
+            "original_language": "en",
+            "original_title": "Thor: Love and Thunder",
+            "overview": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now inexplicably wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
+            "popularity": 1398.687,
+            "poster_path": "/4zLfBbGnuUBLbMVtagTZvzFwS8l.jpg",
+            "release_date": "2022-07-06",
+            "title": "Thor: Love and Thunder",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 17
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/m0YjB4VfghKey8Ppsmz8qCd0v1m.jpg",
+            "genre_ids": [
+                28,
+                35,
+                80
+            ],
+            "id": 648579,
+            "original_language": "en",
+            "original_title": "The Unbearable Weight of Massive Talent",
+            "overview": "Creatively unfulfilled and facing financial ruin, Nick Cage must accept a $1 million offer to attend the birthday of a dangerous superfan. Things take a wildly unexpected turn when Cage is recruited by a CIA operative and forced to live up to his own legend, channeling his most iconic and beloved on-screen characters in order to save himself and his loved ones.",
+            "popularity": 1538.244,
+            "poster_path": "/aqhLeieyTpTUKPOfZ3jzo2La0Mq.jpg",
+            "release_date": "2022-04-20",
+            "title": "The Unbearable Weight of Massive Talent",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 419
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hGr0FrLI74vqpBWTBOPloDBwOAK.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 705861,
+            "original_language": "en",
+            "original_title": "Hustle",
+            "overview": "After discovering a once-in-a-lifetime player with a rocky past abroad, a down on his luck basketball scout takes it upon himself to bring the phenom to the States without his team's approval. Against the odds, they have one final shot to prove they have what it takes to make it in the NBA.",
+            "popularity": 1492.116,
+            "poster_path": "/fVf4YHHkRfo1uuljpWBViEGmaUQ.jpg",
+            "release_date": "2022-06-03",
+            "title": "Hustle",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 923
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1ILgy7Qw3aDDIIU1u3bauMimhSS.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 587272,
+            "original_language": "es",
+            "original_title": "Padre no hay más que uno",
+            "overview": "Javier is what we have dubbed as a \"husband-in-law.\" That is that without taking care of the care of the house and children at all, he knows exactly what needs to be done, and that he continuously collects a sum of sentences from the type: \"It is that you do not organize\", or \"do not get nervous\", you already consider that overflowing woman drowns in a glass of water. Javier will have to face the reality of dealing with five children (between four and twelve years old) when his wife decides to go on a trip and leave him alone with them. The chaotic situation that takes place at home will progressively evolve ecologically to the most absolute disaster, but at the same time it will give parents and children the opportunity to meet and enjoy themselves for the first time.",
+            "popularity": 1203.767,
+            "poster_path": "/tW6V8C81lzYuRy8yFe1dvvGhL4j.jpg",
+            "release_date": "2019-08-02",
+            "title": "Father There Is Only One",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 382
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iOFBH9KtjKMntbP2kheeOpMQTcC.jpg",
+            "genre_ids": [
+                28,
+                35,
+                53
+            ],
+            "id": 667739,
+            "original_language": "en",
+            "original_title": "The Man From Toronto",
+            "overview": "In a case of mistaken identity, the world’s deadliest assassin, known as the Man from Toronto, and a New York City screw-up are forced to team up after being confused for each other at an Airbnb.",
+            "popularity": 1583.784,
+            "poster_path": "/uTCfTibqtk4f90cC59bLPMOmsfc.jpg",
+            "release_date": "2022-06-24",
+            "title": "The Man From Toronto",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 210
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fEe5fe82qHzjO4yej0o79etqsWV.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                80
+            ],
+            "id": 629542,
+            "original_language": "en",
+            "original_title": "The Bad Guys",
+            "overview": "When the infamous Bad Guys are finally caught after years of countless heists and being the world’s most-wanted villains, Mr. Wolf brokers a deal to save them all from prison.",
+            "popularity": 1269.314,
+            "poster_path": "/7qop80YfuO0BwJa1uXk1DXUUEwv.jpg",
+            "release_date": "2022-03-17",
+            "title": "The Bad Guys",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 733
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                14
+            ],
+            "id": 568124,
+            "original_language": "en",
+            "original_title": "Encanto",
+            "overview": "A Colombian teenage girl has to face the frustration of being the only member of her family without magical powers.",
+            "popularity": 1099.39,
+            "poster_path": "/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg",
+            "release_date": "2021-11-24",
+            "title": "Encanto",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 6851
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rbONN3UloJa4syJn6pHlDqZsQqx.jpg",
+            "genre_ids": [
+                35,
+                10751
+            ],
+            "id": 668742,
+            "original_language": "es",
+            "original_title": "Padre no hay más que uno 2: la llegada de la suegra",
+            "overview": "The success of the Conchy virtual assistant (which was developed by Javier) has earned him a favorable spot in the parents chat room - until something unexpected ruins it all.",
+            "popularity": 958.396,
+            "poster_path": "/rwPb2AfNzQXjb8sUM6mCzMvN5T3.jpg",
+            "release_date": "2020-07-29",
+            "title": "Father There Is Only One 2",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 274
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/j7HkmkYLH1McPTzWPvvYgIAQwIN.jpg",
+            "genre_ids": [
+                12,
+                16,
+                35,
+                10751,
+                14
+            ],
+            "id": 778855,
+            "original_language": "en",
+            "original_title": "Chickenhare and the Hamster of Darkness",
+            "overview": "Young Chickenhare is the adopted son of King Peter, a famous adventurer. Part chicken and part hare, he has a really tough time growing up and disguises himself as a hare to avoid the mockeries of his peers. When the day of the Royal Adventurer Society trials comes, Chickenhare, hampered by his disguise, fails miserably. But he is determined to grab a second chance and find the Scepter of the Hamster of Darkness, before his evil Uncle Lapin. The Scepter will give immense power to its holder. If Lapin gets hold of it, he will be unstoppable. Accompanied by his faithful servant Abe, a sarcastic turtle, and Meg, a martial arts expert skunk, he sets of on an epic and initiatory quest.",
+            "popularity": 946.582,
+            "poster_path": "/2v6f1EqTo4FUxVT9MDXpF6158AX.jpg",
+            "release_date": "2022-02-16",
+            "title": "Chickenhare and the Hamster of Darkness",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 111
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rfbpgHbotsnB4sopZDIA3EhPecQ.jpg",
+            "genre_ids": [
+                35,
+                28
+            ],
+            "id": 746333,
+            "original_language": "fr",
+            "original_title": "Super-héros malgré lui",
+            "overview": "Struggling actor Cedric seems doomed to lead the life of a loser. He's broke and his girlfriend has dumped him. Even his own father, sister and best buddies have lost faith in his ability to do anything worthwhile. Then finally, he gets a lead role: the superhero “Badman“. A chance to pull himself out of an endless downward spiral and gain his father's respect. But fate strikes again! Rushing off the set in full costume, Cedric has a car accident, loses his memory, and wakes up convinced he really is a superhero on mission! Confronted with real-life adventure and danger, his true nature is put to the test. Does he have what it takes to tackle the forces of evil, defend the weakest among us and beat the bad guys? But you can't just decide to be a hero, let alone a superhero... especially someone like Cedric!",
+            "popularity": 1183.172,
+            "poster_path": "/4nuElmKU1F53qGq0MskGgyRH8Q2.jpg",
+            "release_date": "2022-02-02",
+            "title": "Superwho?",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 143
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qK7Ssnrfvrt65F66A1thvehfQg2.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                35,
+                12,
+                9648
+            ],
+            "id": 420821,
+            "original_language": "en",
+            "original_title": "Chip 'n Dale: Rescue Rangers",
+            "overview": "Decades since their successful television series was canceled, Chip has succumbed to a life of suburban domesticity as an insurance salesman. Dale, meanwhile, has had CGI surgery and works the nostalgia convention circuit, desperate to relive his glory days. When a former cast mate mysteriously disappears, Chip and Dale must repair their broken friendship and take on their Rescue Rangers detective personas once again to save their friend’s life.",
+            "popularity": 918.711,
+            "poster_path": "/7UGmn8TyWPPzkjhLUW58cOUHjPS.jpg",
+            "release_date": "2022-05-18",
+            "title": "Chip 'n Dale: Rescue Rangers",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 607
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qBLEWvJNVsehJkEJqIigPsWyBse.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                14,
+                35,
+                12
+            ],
+            "id": 585083,
+            "original_language": "en",
+            "original_title": "Hotel Transylvania: Transformania",
+            "overview": "When Van Helsing's mysterious invention, the \"Monsterfication Ray,\" goes haywire, Drac and his monster pals are all transformed into humans, and Johnny becomes a monster. In their new mismatched bodies, Drac and Johnny must team up and race across the globe to find a cure before it's too late, and before they drive each other crazy.",
+            "popularity": 890.497,
+            "poster_path": "/teCy1egGQa0y8ULJvlrDHQKnxBL.jpg",
+            "release_date": "2022-02-25",
+            "title": "Hotel Transylvania: Transformania",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 1043
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/A65oYGOeBQDoxhwkeVLnBPNWItK.jpg",
+            "genre_ids": [
+                12,
+                35,
+                10751
+            ],
+            "id": 892527,
+            "original_language": "fr",
+            "original_title": "King",
+            "overview": "King, a trafficked lion cub, escapes from the airport and takes refuge with Inès and Alex, who then have the crazy idea of getting him back to Africa. Anything can happen when Max their kooky grandfather, decides to join the adventure.",
+            "popularity": 767.201,
+            "poster_path": "/kEyi52oFS45X5sb78kAMnfrenxm.jpg",
+            "release_date": "2022-02-16",
+            "title": "King",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 46
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6mJrgL7Mi13XjJeGYJFlD6UEVQw.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                10402
+            ],
+            "id": 438695,
+            "original_language": "en",
+            "original_title": "Sing 2",
+            "overview": "Buster and his new cast now have their sights set on debuting a new show at the Crystal Tower Theater in glamorous Redshore City. But with no connections, he and his singers must sneak into the Crystal Entertainment offices, run by the ruthless wolf mogul Jimmy Crystal, where the gang pitches the ridiculous idea of casting the lion rock legend Clay Calloway in their show. Buster must embark on a quest to find the now-isolated Clay and persuade him to return to the stage.",
+            "popularity": 724.958,
+            "poster_path": "/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg",
+            "release_date": "2021-12-01",
+            "title": "Sing 2",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 2895
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pFwvHAFyPEqtvJEoutPuobLwrNj.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751
+            ],
+            "id": 778810,
+            "original_language": "en",
+            "original_title": "Fireheart",
+            "overview": "The film explores the world of firefighters in 1920s New York City and tells the story of a 16-year-old girl who will have to become a hero in order to save her city.",
+            "popularity": 717.691,
+            "poster_path": "/hepwOZWJNUmLzB68gKYEdEJAaD3.jpg",
+            "release_date": "2022-01-16",
+            "title": "Fireheart",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 105
+        }
+    ],
+    "total_pages": 5162,
+    "total_results": 103238
+}

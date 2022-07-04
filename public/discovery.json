@@ -1,0 +1,378 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/mBJ995JUssgh2hhm4JxNj8hyVVM.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 979163,
+            "original_language": "en",
+            "original_title": "Beyond Infinity: Buzz and the Journey to Lightyear",
+            "overview": "Explore the evolution of Buzz Lightyear from toy to human in the making of Pixar’s Lightyear. Dive into the origin and cultural impact of everyone’s favorite Space Ranger, the art of designing a new “human Buzz,” and the challenges faced by the Lightyear crew along the way.",
+            "popularity": 1559.323,
+            "poster_path": "/i8FtZGLZNZAvxGpxYEvqIJIGNhV.jpg",
+            "release_date": "2022-06-10",
+            "title": "Beyond Infinity: Buzz and the Journey to Lightyear",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 149
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6KmDXXNVlbtZVCNQgcWGZeJ5DtS.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 978444,
+            "original_language": "fr",
+            "original_title": "Top Gun : les coulisses du grand retour",
+            "overview": "",
+            "popularity": 395.739,
+            "poster_path": "/pSs9HbhK5rvHDKlH5YcLTSrPzih.jpg",
+            "release_date": "2022-05-19",
+            "title": "Top Gun : les coulisses du grand retour",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/okUGREWC4LN2TSjFX0AOiNJhzdN.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 965143,
+            "original_language": "ko",
+            "original_title": "사이버 지옥: n번방을 무너뜨려라",
+            "overview": "Anonymous and exploitative, a network of online chat rooms ran rampant with sex crimes. The hunt to take down its operators required guts and tenacity.",
+            "popularity": 268.511,
+            "poster_path": "/eRlW6yvXHyXPuN0Ea6u6Sc48lGm.jpg",
+            "release_date": "2022-05-17",
+            "title": "Cyber Hell: Exposing an Internet Horror",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 43
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/BlC5QrSHnEHFAjAYrLdngUIA8r.jpg",
+            "genre_ids": [
+                35,
+                28,
+                99
+            ],
+            "id": 828853,
+            "original_language": "en",
+            "original_title": "Jackass 4.5",
+            "overview": "Through outrageous, never-before-seen footage, witness the making of the Jackass crew's last go at wild stunts.\r\n<a href=\"https://www.themoviedb.org/\">Themoviedb</a>",
+            "popularity": 223.758,
+            "poster_path": "/bl686OSeMQOvs90IQAgt8QipCsB.jpg",
+            "release_date": "2022-05-20",
+            "title": "Jackass 4.5",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 152
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f2J8DpT5bqV0AiI9VVcfiuqKo5l.jpg",
+            "genre_ids": [
+                35,
+                28,
+                99
+            ],
+            "id": 656663,
+            "original_language": "en",
+            "original_title": "Jackass Forever",
+            "overview": "Celebrate the joy of a perfectly executed shot to the groin as Johnny Knoxville, Steve-O and the rest of the gang return alongside some newcomers for one final round of hilarious, wildly absurd and often dangerous displays of stunts and comedy.",
+            "popularity": 217.869,
+            "poster_path": "/ugIdyvtAzHWOguD91UjHKoAvfum.jpg",
+            "release_date": "2022-02-01",
+            "title": "Jackass Forever",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 425
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eGa0w1EbNnb2wF696NVbF65IR4Y.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 638566,
+            "original_language": "ja",
+            "original_title": "Naruto to Boruto: The Live 2019",
+            "overview": "“NARUTO to BORUTO THE LIVE 2019”, a special event for the 20th anniversary of the first publication of “NARUTO” series in Weekly Shonen Jump!! Featuring live performances by artists performing the theme songs of both “NARUTO” and “BORUTO: NARUTO NEXT GENERATIONS”, anime cast members reading original story episodes, and more.",
+            "popularity": 169.153,
+            "poster_path": "/8OkxtHotJnegiBbWQSz8fD60NEc.jpg",
+            "release_date": "2019-05-05",
+            "title": "Naruto to Boruto: The Live 2019",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 22
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                35,
+                99
+            ],
+            "id": 984430,
+            "original_language": "en",
+            "original_title": "James Corden's Top Gun Training with Tom Cruise",
+            "overview": "When \"Top Gun: Maverick\" star Tom Cruise calls you up to hang out for the day, you say yes. And for James Corden, that meant having Tom pilot you in two different fighter planes, pushing the limits of gravity and James's stomach.",
+            "popularity": 210.262,
+            "poster_path": "/cWA5RjPktwdybwgsJS8bDGZpgXl.jpg",
+            "release_date": "2022-06-01",
+            "title": "James Corden's Top Gun Training with Tom Cruise",
+            "video": false,
+            "vote_average": 2,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sVUj3GZ6qWCyaVyu4PpMlyYQbxd.jpg",
+            "genre_ids": [
+                99,
+                10402
+            ],
+            "id": 962192,
+            "original_language": "en",
+            "original_title": "Jennifer Lopez:  Halftime",
+            "overview": "Global superstar Jennifer Lopez reflects on her multifaceted career and the pressure of life in the spotlight in this intimate documentary.",
+            "popularity": 173.157,
+            "poster_path": "/kigfBGQKTI0cLV6t10DeDQGVBFr.jpg",
+            "release_date": "2022-06-08",
+            "title": "Jennifer Lopez:  Halftime",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 66
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uO6ZUez70Twan92pqoV60T9kiGH.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 440249,
+            "original_language": "en",
+            "original_title": "After Porn Ends 2",
+            "overview": "After Porn Ends 2 picks up where its predecessor left off and not only turns back the clock to meet the oldest living stars in adult film's history, but goes in depth with some of Its most current retirees and juxtaposes their experiences in a life after porn. Delving deeper into society's ongoing stigmas of race, misogyny, and the reality of decreasing opportunities for these former VHS box cover stars. For some, their careers in adult entertainment is accepted proudly and without regret. In fact, it seems to have proven to be the pathway to their current happiness and inner peace. For others, however, a career in porn has proven to be a conduit to certain despair as they struggle to find a way to bury their past and emerge with a new career or calling.",
+            "popularity": 149.603,
+            "poster_path": "/rfItXrtDGILwsCdmgVxX79phFuI.jpg",
+            "release_date": "2017-03-28",
+            "title": "After Porn Ends 2",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 198
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8rft8A9nH43IReybFtYt21ezfMK.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 899082,
+            "original_language": "en",
+            "original_title": "Harry Potter 20th Anniversary: Return to Hogwarts",
+            "overview": "An enchanting making-of story told through all-new in-depth interviews and cast conversations, inviting fans on a magical first-person journey through one of the most beloved film franchises of all time.",
+            "popularity": 142.883,
+            "poster_path": "/jntLBq0MLR3hrwKaTQswxACRPMs.jpg",
+            "release_date": "2022-01-01",
+            "title": "Harry Potter 20th Anniversary: Return to Hogwarts",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 1626
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nXH3PbWtH7qpWlaAwFCvvh40pk8.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 953300,
+            "original_language": "en",
+            "original_title": "The Mystery of Marilyn Monroe: The Unheard Tapes",
+            "overview": "This documentary explores the mystery surrounding the death of movie icon Marilyn Monroe through previously unheard interviews with her inner circle.",
+            "popularity": 141.751,
+            "poster_path": "/9Ab3MEngH2sWK8uydGBFfgZDB4z.jpg",
+            "release_date": "2022-04-27",
+            "title": "The Mystery of Marilyn Monroe: The Unheard Tapes",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 70
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5ozYVJUJGKgCt6EEErtHCayeZ9.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 554751,
+            "original_language": "es",
+            "original_title": "Los Tigres del Norte: Historias que contar",
+            "overview": "About the legendary Mexican band, Los Tigres del Norte, and the historical and controversial themes that they approach in several of their most representative corridos. The brothers Hernández and Óscar Lara open in front of the cameras and tell us about the birth and development of their group.",
+            "popularity": 110.2,
+            "poster_path": "/7Q8AK3z6rfWAlWcNDbiCu7IN7oy.jpg",
+            "release_date": "2022-06-17",
+            "title": "Chief of Chiefs",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/slh9qCbyDcMN2rC9FiueZ6pR2fj.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 381749,
+            "original_language": "it",
+            "original_title": "Porno & Libertà",
+            "overview": "Italy, 1970. An increasing legion of harmless warriors begins a peaceful struggle for sexual freedom through pornography, shaking and shocking religious authorities and conservative political institutions. They are ironic, happy, crazy. They are dreamers, defenders of definitive communion between body and soul. But they were censored and humiliated. They were mistreated and arrested for demanding loud a new cultural renaissance.",
+            "popularity": 96.666,
+            "poster_path": "/xhB2hGJBSvK69ZDOZJvNnoGh9vL.jpg",
+            "release_date": "2016-06-24",
+            "title": "Porn to Be Free",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 69
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tTeTfXgITsiEcq54H572Z3OBx88.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 984349,
+            "original_language": "en",
+            "original_title": "An Epic at Sea: The Making of 'Pirates of the Caribbean: The Curse of the Black Pearl'",
+            "overview": "Behind-the-scenes documentary on the making and production of 'The Curse of the Black Pearl'.",
+            "popularity": 80.238,
+            "poster_path": "/hWb8Mkf40858FJC1fuNO82XHQsa.jpg",
+            "release_date": "2003-12-02",
+            "title": "An Epic at Sea: The Making of 'Pirates of the Caribbean: The Curse of the Black Pearl'",
+            "video": false,
+            "vote_average": 2,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/chKGRT7RjkHWlU0hRFQeJMx2Bra.jpg",
+            "genre_ids": [
+                18,
+                99
+            ],
+            "id": 511679,
+            "original_language": "es",
+            "original_title": "Héctor El Father: Conocerás la verdad",
+            "overview": "This autobiography of Hector Delgado runs from his childhood to become one of the greatest exponents of the urban genre, but the results of that life did not please him and led him to try to take his life  .After being victim of a firefight at a service station in Aguada, a city hall in Puerto Rico, he stopped earning at least two hundred American dollars for presentation and being \"devout of Jesus\"",
+            "popularity": 88.291,
+            "poster_path": "/tkP0FzEivLxsUYt8BlaL8Sh7ceY.jpg",
+            "release_date": "2018-03-22",
+            "title": "Héctor El Father: Conocerás la verdad",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 87
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yEBBtk1eyZltGgJt8Z2zi3KIvvX.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 689249,
+            "original_language": "es",
+            "original_title": "La Casa de Papel: el fenómeno",
+            "overview": "A documentary on why 'Money Heist' sparked a wave of enthusiasm around the world for a lovable group of thieves and their professor.",
+            "popularity": 72.753,
+            "poster_path": "/AboUXTrDWEi0PuZUqaft0iwBTm7.jpg",
+            "release_date": "2020-04-03",
+            "title": "Money Heist: The Phenomenon",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 996
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b3cc3IlIiZuXbcuLF0HX5ZJ7fd9.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 962920,
+            "original_language": "es",
+            "original_title": "El fotógrafo y el cartero: El crimen de Cabezas",
+            "overview": "The murder of photographer José Luis Cabezas in the summer of 1997 deeply shakes Argentina, and ends up revealing a mafia scheme in which the political and economic powers  appear to be involved.",
+            "popularity": 69.593,
+            "poster_path": "/pOm7VAlsuJ5ixXg3pgKY8a7uhqt.jpg",
+            "release_date": "2022-04-21",
+            "title": "The Photographer: Murder in Pinamar",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hFMb2LpOv7wmtsr20GbCCb0IfX3.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 913868,
+            "original_language": "en",
+            "original_title": "The Princess",
+            "overview": "Decades after her untimely death, Princess Diana continues to evoke mystery, glamour, and the quintessential modern fairy tale gone wrong. As a symbol of both the widening fissures weakening the British monarchy and the destructive machinery of the press, the Princess of Wales navigated an unparalleled rise to fame and the corrosive challenges that came alongside it. Crafted entirely from immersive archival footage and free from the distraction of retrospective voices, this hypnotic and audaciously revealing documentary takes a distinctive formal approach, allowing the story of the People’s Princess to unfold before us like never before.",
+            "popularity": 46.119,
+            "poster_path": "/czNKY7xaVn5yea5q7pNa0IziBxe.jpg",
+            "release_date": "2022-05-30",
+            "title": "The Princess",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ozIhpAb69vQahq5obDlRGP87Y0m.jpg",
+            "genre_ids": [
+                99,
+                28,
+                12,
+                53
+            ],
+            "id": 503210,
+            "original_language": "en",
+            "original_title": "Return to Jurassic Park",
+            "overview": "A multi-part documentary about the making of the Jurassic Park trilogy. Each part walks through the making of part of one of the films, including the hurricane during the shooting of the first film, and how advances in CGI for Jurassic Park helped change the world of special effects forever. All interviews for these retrospective documentaries come with comments from Spielberg, Johnston, Neill, Dern, Goldblum, the effects crews, the child actors, and Peter Stormare. This documentary is broken into five parts: Dawn of a New Era (25 min) Making Prehistory (20 min), the Next Step in Evolution (15 min), and the Third Adventure (25 min), Finding the Lost World (28 min), and Something Survived (16 min).",
+            "popularity": 73.73,
+            "poster_path": "/mPyu59cDdmMDDW9IOtfjVlM0THd.jpg",
+            "release_date": "2011-02-05",
+            "title": "Return to Jurassic Park",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 598
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bVw4D0GSZwFkuq6s4OtEaw993Zm.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 492815,
+            "original_language": "en",
+            "original_title": "Behind the Fright: The Making of American Horror Story",
+            "overview": "In this video-short go behind the scenes with the cast of \"American Horror Story\" on how the show is made.",
+            "popularity": 60.427,
+            "poster_path": "/v3lrotdPRNdYWkaNMC6b2j203KS.jpg",
+            "release_date": "2012-09-25",
+            "title": "Behind the Fright: The Making of American Horror Story",
+            "video": false,
+            "vote_average": 9,
+            "vote_count": 12
+        }
+    ],
+    "total_pages": 5349,
+    "total_results": 106962
+}
